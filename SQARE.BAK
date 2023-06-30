@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+
+void main()
+{
+
+    int a=44,b=44,area;
+    area=a*b;
+    printf("area of sqare=%d",area);
+    getch();
+}
